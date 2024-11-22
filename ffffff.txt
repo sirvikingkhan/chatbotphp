@@ -1,0 +1,13 @@
+ffffff
+
+
+linear-gradient(60deg, #0d2265, #64219d)
+
+
+ verde 
+
+ .azull 
+
+ 5571bb45
+
+ 
